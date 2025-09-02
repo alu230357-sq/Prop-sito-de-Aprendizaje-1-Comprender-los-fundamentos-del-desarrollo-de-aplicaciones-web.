@@ -50,3 +50,5 @@ Optimización de recursos (imágenes, scripts)
 Despliegue de aplicaciones web
 CI/CD básico
 Documentación del proyecto
+
+
