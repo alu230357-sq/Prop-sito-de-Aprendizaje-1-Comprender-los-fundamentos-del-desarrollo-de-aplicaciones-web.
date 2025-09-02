@@ -16,6 +16,9 @@ El desarrollo web ha evolucionado significativamente desde la creación de la Wo
 -
 - **PWA (Progressive Web Application)**: Son aplicaciones web que ofrecen una experiencia similar a las aplicaciones nativas, incluyendo capacidades offline, notificaciones push y acceso al hardware del dispositivo. Se pueden instalar en el dispositivo del usuario y funcionan incluso sin conexión a internet.
 
+  <img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/2c65d321-118b-4704-bb97-c793c3ab51c7" />
+
+
 ## 2. Arquitectura de aplicaciones web
 
 ### Cliente-Servidor
@@ -69,7 +72,14 @@ El uso de ramas (branching) permite desarrollar nuevas características, corregi
 -
 - **Pull Requests**: En plataformas como GitHub, se utiliza un pull request para solicitar la revisión y fusión de los cambios, lo que mejora la colaboración y la calidad del código mediante revisiones por otros miembros del equipo.
 
+  <img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/2b1a8e05-e9a5-47de-bf1e-cd0e3e3bb1b6" />
+
+
+
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
+
+<img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/b341848f-b6a1-4efd-872a-afe3b684976f" />
+
 
 ## 1. Diseño e implementación del frontend
 
@@ -109,6 +119,9 @@ La validación en el frontend y backend previene la entrada de datos incorrectos
 ### Autenticación y autorización
 La autenticación garantiza que solo usuarios válidos accedan al sistema, mientras que la autorización controla los permisos de cada usuario sobre los recursos y funcionalidades de la aplicación.
 
+<img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/39784b33-bc26-42aa-a520-4aad9d2f7116" />
+
+
 # Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional.  
 
 ## 1. Integración de frontend y backend
@@ -121,6 +134,9 @@ La integración se realiza mediante APIs, donde el frontend envía solicitudes (
 
 ### Proceso de Solicitud y Respuesta de Backend
 El backend recibe las solicitudes del frontend, las procesa, accede a la base de datos si es necesario y responde con los datos o resultados requeridos por el usuario.
+
+<img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/0b677ceb-427c-4e28-abcf-deea32728f8f" />
+
 
 ## 2. Almacenamiento en Servidor
 
@@ -146,5 +162,8 @@ La Integración Continua y el Despliegue Continuo (CI/CD) permiten automatizar p
 
 ### Documentación del proyecto
 La documentación clara y accesible del proyecto facilita el mantenimiento, la colaboración y el uso por parte de otros desarrolladores y usuarios.
+
+<img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/d701723f-f497-4292-9ff7-ee22d238dbe2" />
+
 
 
