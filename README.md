@@ -2,6 +2,7 @@
 Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en donde investigarás con imágenes los temas propuestos.
 
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
+
 1.-Introducción al desarrollo web
 Historia y evolución del desarrollo web
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)
@@ -16,6 +17,7 @@ Git y GitHub
 Flujo de trabajo con ramas (branching, merge, pull requests)
 
 Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
+
 1.-Diseño e implementación del frontend
 Maquetación/Wireframe/Mockup
 API
@@ -32,6 +34,7 @@ Validación de formularios
 Autenticación y autorización 
 
 Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
+
 1. -Integración de frontend y backend
 Interfaz de usuario Frontend
 Manejo de API
